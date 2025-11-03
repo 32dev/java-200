@@ -1,4 +1,4 @@
-package part1.e010_lambda;
+package e010_lambda;
 public class Card {
     private String dataVal;
 
