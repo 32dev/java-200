@@ -11,7 +11,7 @@ public class Main {
 		double[] latlng1 = { latitude1, longitude1 };
 		double[] latlng2 = { latitude2, longitude2 };
 		System.out.println(latlng1[0] + "\t" + latlng1[1]);
-		System.out.println(latlng2[0] + "\t" + latlng2[1]);
+		System.out.println(latlng1[0] + "\t" + latlng1[1]);
 
 		double[][] latlng = { { latitude1, longitude1 }, { latitude2, longitude2 } };
 		System.out.println(latlng[0][0] + "\t" + latlng[0][1]);
